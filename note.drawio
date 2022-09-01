@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T14:06:23.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="IfNs_Y-2yvvvMXWBAWjB" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T18:16:35.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.70" etag="GglA41keAMuCOh0QFckA" version="20.2.7" type="github">
   <diagram id="_9cusLM6FFAZIeaVTwZ1" name="第 1 页">
-    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1609" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,6 +45,9 @@
         </mxCell>
         <mxCell id="rv9LeR_7sXlAxLJFzrG7-14" value="App.razor" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="1230" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rv9LeR_7sXlAxLJFzrG7-15" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1110" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
